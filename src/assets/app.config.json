@@ -1,0 +1,26 @@
+[
+    {
+        "name": "angular-app",
+        "version": "1.0.0",
+        "enveironment": "development",
+        "basehref": "angular-app"
+    },
+    {
+        "name": "angular-app",
+        "version": "1.0.0",
+        "enveironment": "test",
+        "basehref": "angular-app"
+    },
+    {
+        "name": "angular-app",
+        "version": "1.0.0",
+        "enveironment": "uat",
+        "basehref": "angular-app"
+    },
+    {
+        "name": "angular-app",
+        "version": "1.0.0",
+        "enveironment": "production",
+        "basehref": "angular-app"
+    }
+]
